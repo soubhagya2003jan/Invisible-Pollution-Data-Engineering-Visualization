@@ -1,21 +1,64 @@
-# Invisible Pollution Visualization & Streamlit App
-```
-You Can View The Tableau Dashboard:
-You Can View The Data App:
-```
+# 🏭 India Air Pollution Visualization Dashboard
 
-# Tech Stack Used
-- Tableau
-- VizQL
-- Python
-- Jupyter Notebook
-- Openaq API
+A **full-stack data visualization and engineering project** designed to track and raise awareness about harmful air pollutants across India.  
+Built using **Tableau**, **Python**, **AWS**, and **Figma**, this project utilizes **20M+ rows** of real-time sensor data sourced from OpenAQ.
 
-# Python Framework Used
-- Pandas
-- Boto3 (AWS)
-- Plotly (Graphing Library)
-- Streamlit (Used To Create Data App)
-- Dotenv
-- DuckDB (For Some Personal Testing)
+---
+![Portfolio Thumbnai](https://github.com/user-attachments/assets/4da796b3-6c0b-4e11-9159-17aaedc2ef70)
+---
+## 📌 Overview
 
+This is a full visualization and data engineering project designed to visualize harmful air pollutants in India, aiming to raise public awareness.  
+The data, sourced from **OpenAQ**, contains **20 million rows** and is processed through a series of steps, including **compression, transformation,** and **outlier removal** to address sensor errors.  
+This visualization focuses on **air pollution trends for the years 2024–2025**.
+
+> **Tech Stack:** Tableau · Python · AWS · OpenAQ API · Data Engineering · Figma · Pandas · Database Manipulation
+
+---
+
+## ⚙️ Methodology
+
+- 📥 **Data Retrieval:** Fetched from the OpenAQ AWS S3 bucket using a custom Python script with the **Boto3 SDK**.
+- 🧹 **Data Cleaning:** Sensor errors (extreme values) removed using **Pandas**, and the dataset is transformed for usability.
+- 📊 **EDA:** Performed for quick insights into pollutants across time and locations.
+- 📈 **Tableau:** Used to dive deep into data patterns and spatial pollution mapping.
+- 🎨 **Figma:** Used to prototype dashboard layout—scatter plots, maps, and correlation visuals were planned beforehand.
+- 📚 **Research:** Conducted on Indian air quality issues to ensure insights are grounded in reality.
+
+---
+
+## 🔍 Findings
+
+- 🏙️ **Delhi** records the highest levels of **PM2.5** and **PM10** pollution.
+- 📈 Multiple cities operate **above WHO safety limits**, posing risks even to healthy individuals.
+- 🔗 A strong **correlation between PM2.5 and PM10** values is observed across states.
+- 🏗️ **Construction dust** and **residential fuel usage** are major contributing factors.
+
+---
+
+## ✅ Conclusions
+
+The dashboard successfully shows pollutant trends over **time**, across **locations**, and between **different air quality parameters**, making the data intuitive and informative for the general public.
+
+---
+
+## 🔗 Tableau Visualization
+
+[👉 Click here to view the full Tableau dashboard](#)  
+*Insert your published Tableau Public or Tableau Server link here.*
+
+---
+
+## 🖼️ Preview
+
+> Add screenshots or GIFs of your dashboard here:
+![Linkedln Share](https://github.com/user-attachments/assets/907c0a4a-1ebd-44a9-8ddd-301b79bb9438)
+---
+
+## 💡 How to Use
+
+- Open the Tableau dashboard via the link above.
+- Hover over visuals for detailed insights and metrics.
+---
+
+⭐ Feel free to **star** this repo if you found the project helpful or insightful!
