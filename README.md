@@ -44,7 +44,7 @@ The dashboard successfully shows pollutant trends over **time**, across **locati
 
 ## 🔗 Tableau Visualization
 
-[👉 Click here to view the full Tableau dashboard](#)  
+[👉 Click here to view the full Tableau dashboard](https://public.tableau.com/app/profile/soubhagya.swain/viz/InvisiblePollutionIndia2024-2025/FrontPage)  
 
 ---
 
