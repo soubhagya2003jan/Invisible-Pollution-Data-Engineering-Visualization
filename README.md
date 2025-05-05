@@ -5,7 +5,8 @@ Built using **Tableau**, **Python**, **AWS**, and **Figma**, this project utiliz
 
 ---
 ![Portfolio Thumbnai](https://github.com/user-attachments/assets/113cbfa4-15cd-4da5-8e34-7fa0b7ec265d)
---
+
+---
 
 ## 📌 Overview
 
