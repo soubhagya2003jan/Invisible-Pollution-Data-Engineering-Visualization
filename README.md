@@ -45,7 +45,6 @@ The dashboard successfully shows pollutant trends over **time**, across **locati
 ## 🔗 Tableau Visualization
 
 [👉 Click here to view the full Tableau dashboard](#)  
-*Insert your published Tableau Public or Tableau Server link here.*
 
 ---
 
